@@ -1,0 +1,161 @@
+E:\M Juillard\Projet géométrie\bin\Debug\Projet géométrie.exe.config
+E:\M Juillard\Projet géométrie\bin\Debug\Projet géométrie.exe
+E:\M Juillard\Projet géométrie\bin\Debug\Projet géométrie.pdb
+E:\M Juillard\Projet géométrie\obj\Debug\Projet géométrie.csprojAssemblyReference.cache
+E:\M Juillard\Projet géométrie\obj\Debug\MainWindow.g.cs
+E:\M Juillard\Projet géométrie\obj\Debug\App.g.cs
+E:\M Juillard\Projet géométrie\obj\Debug\Projet géométrie_MarkupCompile.cache
+E:\M Juillard\Projet géométrie\obj\Debug\Projet géométrie_MarkupCompile.lref
+E:\M Juillard\Projet géométrie\obj\Debug\MainWindow.baml
+E:\M Juillard\Projet géométrie\obj\Debug\Projet géométrie.g.resources
+E:\M Juillard\Projet géométrie\obj\Debug\Projet_géométrie.Properties.Resources.resources
+E:\M Juillard\Projet géométrie\obj\Debug\Projet géométrie.csproj.GenerateResource.cache
+E:\M Juillard\Projet géométrie\obj\Debug\Projet géométrie.csproj.CoreCompileInputs.cache
+E:\M Juillard\Projet géométrie\obj\Debug\Projet géométrie.exe
+E:\M Juillard\Projet géométrie\obj\Debug\Projet géométrie.pdb
+F:\M Juillard\Projet géométrie\obj\Debug\Projet géométrie.csproj.AssemblyReference.cache
+F:\M Juillard\Projet géométrie\obj\Debug\MainWindow.g.cs
+F:\M Juillard\Projet géométrie\obj\Debug\PageExercice.g.cs
+F:\M Juillard\Projet géométrie\obj\Debug\App.g.cs
+F:\M Juillard\Projet géométrie\obj\Debug\Projet géométrie_MarkupCompile.cache
+F:\M Juillard\Projet géométrie\obj\Debug\Projet géométrie_MarkupCompile.lref
+F:\M Juillard\Projet géométrie\obj\Debug\Projet géométrie.exe
+F:\M Juillard\Projet géométrie\obj\Debug\Projet géométrie.pdb
+F:\M Juillard\Projet géométrie\bin\Debug\Projet géométrie.exe.config
+F:\M Juillard\Projet géométrie\bin\Debug\Projet géométrie.exe
+F:\M Juillard\Projet géométrie\bin\Debug\Projet géométrie.pdb
+F:\M Juillard\Projet géométrie\obj\Debug\MainWindow.baml
+F:\M Juillard\Projet géométrie\obj\Debug\PageExercice.baml
+F:\M Juillard\Projet géométrie\obj\Debug\Projet géométrie.g.resources
+F:\M Juillard\Projet géométrie\obj\Debug\Projet_géométrie.Properties.Resources.resources
+F:\M Juillard\Projet géométrie\obj\Debug\Projet géométrie.csproj.GenerateResource.cache
+F:\M Juillard\Projet géométrie\obj\Debug\Projet géométrie.csproj.CoreCompileInputs.cache
+F:\slam\Projet géométrie\bin\Debug\Projet géométrie.exe.config
+F:\slam\Projet géométrie\bin\Debug\Projet géométrie.exe
+F:\slam\Projet géométrie\bin\Debug\Projet géométrie.pdb
+F:\slam\Projet géométrie\obj\Debug\Projet géométrie.csprojAssemblyReference.cache
+F:\slam\Projet géométrie\obj\Debug\MainWindow.g.cs
+F:\slam\Projet géométrie\obj\Debug\PageExercice.g.cs
+F:\slam\Projet géométrie\obj\Debug\App.g.cs
+F:\slam\Projet géométrie\obj\Debug\Projet géométrie_MarkupCompile.cache
+F:\slam\Projet géométrie\obj\Debug\Projet géométrie_MarkupCompile.lref
+F:\slam\Projet géométrie\obj\Debug\MainWindow.baml
+F:\slam\Projet géométrie\obj\Debug\PageExercice.baml
+F:\slam\Projet géométrie\obj\Debug\Projet géométrie.g.resources
+F:\slam\Projet géométrie\obj\Debug\Projet_géométrie.Properties.Resources.resources
+F:\slam\Projet géométrie\obj\Debug\Projet géométrie.csproj.GenerateResource.cache
+F:\slam\Projet géométrie\obj\Debug\Projet géométrie.csproj.CoreCompileInputs.cache
+F:\slam\Projet géométrie\obj\Debug\Projet géométrie.exe
+F:\slam\Projet géométrie\obj\Debug\Projet géométrie.pdb
+F:\slam\Projet géométrie - Copie\bin\Debug\Projet géométrie.exe.config
+F:\slam\Projet géométrie - Copie\bin\Debug\Projet géométrie.exe
+F:\slam\Projet géométrie - Copie\bin\Debug\Projet géométrie.pdb
+F:\slam\Projet géométrie - Copie\obj\Debug\Projet géométrie.csprojAssemblyReference.cache
+F:\slam\Projet géométrie - Copie\obj\Debug\MainWindow.g.cs
+F:\slam\Projet géométrie - Copie\obj\Debug\PageExercice.g.cs
+F:\slam\Projet géométrie - Copie\obj\Debug\App.g.cs
+F:\slam\Projet géométrie - Copie\obj\Debug\Projet géométrie_MarkupCompile.cache
+F:\slam\Projet géométrie - Copie\obj\Debug\Projet géométrie_MarkupCompile.lref
+F:\slam\Projet géométrie - Copie\obj\Debug\MainWindow.baml
+F:\slam\Projet géométrie - Copie\obj\Debug\PageExercice.baml
+F:\slam\Projet géométrie - Copie\obj\Debug\Projet géométrie.g.resources
+F:\slam\Projet géométrie - Copie\obj\Debug\Projet_géométrie.Properties.Resources.resources
+F:\slam\Projet géométrie - Copie\obj\Debug\Projet géométrie.csproj.GenerateResource.cache
+F:\slam\Projet géométrie - Copie\obj\Debug\Projet géométrie.csproj.CoreCompileInputs.cache
+F:\slam\Projet géométrie - Copie\obj\Debug\Projet géométrie.exe
+F:\slam\Projet géométrie - Copie\obj\Debug\Projet géométrie.pdb
+D:\Projet_VisualStudio\Projet géométrie\Projet géométrie - Copie\bin\Debug\Projet géométrie.exe.config
+D:\Projet_VisualStudio\Projet géométrie\Projet géométrie - Copie\bin\Debug\Projet géométrie.exe
+D:\Projet_VisualStudio\Projet géométrie\Projet géométrie - Copie\bin\Debug\Projet géométrie.pdb
+D:\Projet_VisualStudio\Projet géométrie\Projet géométrie - Copie\obj\Debug\Projet géométrie.csproj.AssemblyReference.cache
+D:\Projet_VisualStudio\Projet géométrie\Projet géométrie - Copie\obj\Debug\MainWindow.g.cs
+D:\Projet_VisualStudio\Projet géométrie\Projet géométrie - Copie\obj\Debug\PageExercice.g.cs
+D:\Projet_VisualStudio\Projet géométrie\Projet géométrie - Copie\obj\Debug\App.g.cs
+D:\Projet_VisualStudio\Projet géométrie\Projet géométrie - Copie\obj\Debug\Projet géométrie_MarkupCompile.cache
+D:\Projet_VisualStudio\Projet géométrie\Projet géométrie - Copie\obj\Debug\Projet géométrie_MarkupCompile.lref
+D:\Projet_VisualStudio\Projet géométrie\Projet géométrie - Copie\obj\Debug\MainWindow.baml
+D:\Projet_VisualStudio\Projet géométrie\Projet géométrie - Copie\obj\Debug\PageExercice.baml
+D:\Projet_VisualStudio\Projet géométrie\Projet géométrie - Copie\obj\Debug\Projet géométrie.g.resources
+D:\Projet_VisualStudio\Projet géométrie\Projet géométrie - Copie\obj\Debug\Projet_géométrie.Properties.Resources.resources
+D:\Projet_VisualStudio\Projet géométrie\Projet géométrie - Copie\obj\Debug\Projet géométrie.csproj.GenerateResource.cache
+D:\Projet_VisualStudio\Projet géométrie\Projet géométrie - Copie\obj\Debug\Projet géométrie.csproj.CoreCompileInputs.cache
+D:\Projet_VisualStudio\Projet géométrie\Projet géométrie - Copie\obj\Debug\Projet géométrie.exe
+D:\Projet_VisualStudio\Projet géométrie\Projet géométrie - Copie\obj\Debug\Projet géométrie.pdb
+D:\Projet_VisualStudio\Projet géométrie\Projet géométrie\bin\Debug\Projet géométrie.exe.config
+D:\Projet_VisualStudio\Projet géométrie\Projet géométrie\bin\Debug\Projet géométrie.exe
+D:\Projet_VisualStudio\Projet géométrie\Projet géométrie\bin\Debug\Projet géométrie.pdb
+D:\Projet_VisualStudio\Projet géométrie\Projet géométrie\obj\Debug\Projet géométrie.csproj.AssemblyReference.cache
+D:\Projet_VisualStudio\Projet géométrie\Projet géométrie\obj\Debug\MainWindow.g.cs
+D:\Projet_VisualStudio\Projet géométrie\Projet géométrie\obj\Debug\PageExercice.g.cs
+D:\Projet_VisualStudio\Projet géométrie\Projet géométrie\obj\Debug\App.g.cs
+D:\Projet_VisualStudio\Projet géométrie\Projet géométrie\obj\Debug\Projet géométrie_MarkupCompile.cache
+D:\Projet_VisualStudio\Projet géométrie\Projet géométrie\obj\Debug\Projet géométrie_MarkupCompile.lref
+D:\Projet_VisualStudio\Projet géométrie\Projet géométrie\obj\Debug\MainWindow.baml
+D:\Projet_VisualStudio\Projet géométrie\Projet géométrie\obj\Debug\PageExercice.baml
+D:\Projet_VisualStudio\Projet géométrie\Projet géométrie\obj\Debug\Projet géométrie.g.resources
+D:\Projet_VisualStudio\Projet géométrie\Projet géométrie\obj\Debug\Projet_géométrie.Properties.Resources.resources
+D:\Projet_VisualStudio\Projet géométrie\Projet géométrie\obj\Debug\Projet géométrie.csproj.GenerateResource.cache
+D:\Projet_VisualStudio\Projet géométrie\Projet géométrie\obj\Debug\Projet géométrie.csproj.CoreCompileInputs.cache
+D:\Projet_VisualStudio\Projet géométrie\Projet géométrie\obj\Debug\Projet géométrie.exe
+D:\Projet_VisualStudio\Projet géométrie\Projet géométrie\obj\Debug\Projet géométrie.pdb
+E:\Autre\Projet géométrie\Projet géométrie\bin\Debug\Projet géométrie.exe.config
+E:\Autre\Projet géométrie\Projet géométrie\bin\Debug\Projet géométrie.exe
+E:\Autre\Projet géométrie\Projet géométrie\bin\Debug\Projet géométrie.pdb
+E:\Autre\Projet géométrie\Projet géométrie\obj\Debug\Projet géométrie.csprojAssemblyReference.cache
+E:\Autre\Projet géométrie\Projet géométrie\obj\Debug\MainWindow.g.cs
+E:\Autre\Projet géométrie\Projet géométrie\obj\Debug\PageExercice.g.cs
+E:\Autre\Projet géométrie\Projet géométrie\obj\Debug\App.g.cs
+E:\Autre\Projet géométrie\Projet géométrie\obj\Debug\Projet géométrie_MarkupCompile.cache
+E:\Autre\Projet géométrie\Projet géométrie\obj\Debug\Projet géométrie_MarkupCompile.lref
+E:\Autre\Projet géométrie\Projet géométrie\obj\Debug\MainWindow.baml
+E:\Autre\Projet géométrie\Projet géométrie\obj\Debug\PageExercice.baml
+E:\Autre\Projet géométrie\Projet géométrie\obj\Debug\Projet géométrie.g.resources
+E:\Autre\Projet géométrie\Projet géométrie\obj\Debug\Projet_géométrie.Properties.Resources.resources
+E:\Autre\Projet géométrie\Projet géométrie\obj\Debug\Projet géométrie.csproj.GenerateResource.cache
+E:\Autre\Projet géométrie\Projet géométrie\obj\Debug\Projet géométrie.csproj.CoreCompileInputs.cache
+E:\Autre\Projet géométrie\Projet géométrie\obj\Debug\Projet géométrie.exe
+E:\Autre\Projet géométrie\Projet géométrie\obj\Debug\Projet géométrie.pdb
+D:\Autre\Projet géométrie\Projet géométrie\bin\Debug\Projet géométrie.exe.config
+D:\Autre\Projet géométrie\Projet géométrie\bin\Debug\Projet géométrie.exe
+D:\Autre\Projet géométrie\Projet géométrie\bin\Debug\Projet géométrie.pdb
+D:\Autre\Projet géométrie\Projet géométrie\obj\Debug\Projet géométrie.csproj.AssemblyReference.cache
+D:\Autre\Projet géométrie\Projet géométrie\obj\Debug\MainWindow.g.cs
+D:\Autre\Projet géométrie\Projet géométrie\obj\Debug\PageExercice.g.cs
+D:\Autre\Projet géométrie\Projet géométrie\obj\Debug\App.g.cs
+D:\Autre\Projet géométrie\Projet géométrie\obj\Debug\Projet géométrie_MarkupCompile.cache
+D:\Autre\Projet géométrie\Projet géométrie\obj\Debug\Projet géométrie_MarkupCompile.lref
+D:\Autre\Projet géométrie\Projet géométrie\obj\Debug\MainWindow.baml
+D:\Autre\Projet géométrie\Projet géométrie\obj\Debug\PageExercice.baml
+D:\Autre\Projet géométrie\Projet géométrie\obj\Debug\Projet géométrie.g.resources
+D:\Autre\Projet géométrie\Projet géométrie\obj\Debug\Projet_géométrie.Properties.Resources.resources
+D:\Autre\Projet géométrie\Projet géométrie\obj\Debug\Projet géométrie.csproj.GenerateResource.cache
+D:\Autre\Projet géométrie\Projet géométrie\obj\Debug\Projet géométrie.csproj.CoreCompileInputs.cache
+D:\Autre\Projet géométrie\Projet géométrie\obj\Debug\Projet géométrie.exe
+D:\Autre\Projet géométrie\Projet géométrie\obj\Debug\Projet géométrie.pdb
+D:\Projet_BTS\Projet géométrie\Projet géométrie\obj\Debug\Projet géométrie.csproj.AssemblyReference.cache
+D:\Projet_BTS\Projet géométrie\Projet géométrie\obj\Debug\Projet géométrie.csproj.SuggestedBindingRedirects.cache
+D:\Projet_BTS\Projet géométrie\Projet géométrie\obj\Debug\MainWindow.g.cs
+D:\Projet_BTS\Projet géométrie\Projet géométrie\obj\Debug\PageExercice.g.cs
+D:\Projet_BTS\Projet géométrie\Projet géométrie\obj\Debug\App.g.cs
+D:\Projet_BTS\Projet géométrie\Projet géométrie\obj\Debug\Projet géométrie_MarkupCompile.cache
+D:\Projet_BTS\Projet géométrie\Projet géométrie\obj\Debug\Projet géométrie_MarkupCompile.lref
+D:\Projet_BTS\Projet géométrie\Projet géométrie\obj\Debug\Projet géométrie.exe
+D:\Projet_BTS\Projet géométrie\Projet géométrie\obj\Debug\Projet géométrie.pdb
+F:\Projet_BTS\Projet géométrie\Projet géométrie\obj\Debug\Projet géométrie.csproj.AssemblyReference.cache
+F:\Projet_BTS\Projet géométrie\Projet géométrie\obj\Debug\Projet géométrie.csproj.SuggestedBindingRedirects.cache
+F:\Projet_BTS\Projet géométrie\Projet géométrie\obj\Debug\MainWindow.g.cs
+F:\Projet_BTS\Projet géométrie\Projet géométrie\obj\Debug\PageExercice.g.cs
+F:\Projet_BTS\Projet géométrie\Projet géométrie\obj\Debug\App.g.cs
+F:\Projet_BTS\Projet géométrie\Projet géométrie\obj\Debug\Projet géométrie_MarkupCompile.cache
+F:\Projet_BTS\Projet géométrie\Projet géométrie\obj\Debug\Projet géométrie_MarkupCompile.lref
+F:\Projet_BTS\Projet géométrie\Projet géométrie\obj\Debug\Projet géométrie.exe
+F:\Projet_BTS\Projet géométrie\Projet géométrie\obj\Debug\Projet géométrie.pdb
+F:\Projet_BTS\Projet géométrie\Projet géométrie\bin\Debug\Projet géométrie.exe.config
+F:\Projet_BTS\Projet géométrie\Projet géométrie\bin\Debug\Projet géométrie.exe
+F:\Projet_BTS\Projet géométrie\Projet géométrie\bin\Debug\Projet géométrie.pdb
+F:\Projet_BTS\Projet géométrie\Projet géométrie\obj\Debug\MainWindow.baml
+F:\Projet_BTS\Projet géométrie\Projet géométrie\obj\Debug\PageExercice.baml
+F:\Projet_BTS\Projet géométrie\Projet géométrie\obj\Debug\Projet géométrie.g.resources
+F:\Projet_BTS\Projet géométrie\Projet géométrie\obj\Debug\Projet_géométrie.Properties.Resources.resources
+F:\Projet_BTS\Projet géométrie\Projet géométrie\obj\Debug\Projet géométrie.csproj.GenerateResource.cache
+F:\Projet_BTS\Projet géométrie\Projet géométrie\obj\Debug\Projet géométrie.csproj.CoreCompileInputs.cache

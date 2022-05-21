@@ -1,0 +1,20 @@
+﻿<Page x:Class="Projet_géométrie.PageExercice"
+      xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+      xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+      xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+      xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+      xmlns:local="clr-namespace:Projet_géométrie"
+      mc:Ignorable="d" 
+      d:DesignHeight="900" d:DesignWidth="1300"
+      Title="PageExercice">
+
+    <Grid RenderTransformOrigin="0.322,0.504" Height="900" Margin="0,0,-45,0" HorizontalAlignment="Left" Width="1300" VerticalAlignment="Top">
+        
+        <TextBox x:Name="txtValeur1" HorizontalAlignment="Left" Height="37" Margin="1051,263,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="44" IsEnabled="False" FontSize="16" TextAlignment="Center"/>
+        <TextBox x:Name="txtValeur2" HorizontalAlignment="Left" Height="37" Margin="1051,305,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="44" IsEnabled="False" FontSize="16" TextAlignment="Center"/>
+        <TextBox x:Name="txtValeur3" HorizontalAlignment="Left" Height="37" Margin="1051,347,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="44" IsEnabled="False" FontSize="16" TextAlignment="Center"/>
+        <Label x:Name="lblValeur1" Content="" HorizontalAlignment="Left" Margin="904,263,0,0" VerticalAlignment="Top" Height="37" Width="142" FontSize="16"/>
+        <Label x:Name="lblValeur2" Content="" HorizontalAlignment="Left" Margin="904,305,0,0" VerticalAlignment="Top" Height="37" Width="142" FontSize="16"/>
+        <Label x:Name="lblValeur3" Content="" HorizontalAlignment="Left" Margin="904,347,0,0" VerticalAlignment="Top" Height="37" Width="142" FontSize="16"/>
+    </Grid>
+</Page>
